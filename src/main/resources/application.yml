@@ -15,3 +15,4 @@ spring:
           timeout: 5
           clone-on-start: true
           force-pull: true
+          search-paths: src/main/resources/config
